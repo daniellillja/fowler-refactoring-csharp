@@ -47,8 +47,11 @@
   <ItemGroup>
     <Compile Include="Code\Ch1\After\Movie.cs" />
     <Compile Include="Code\Ch1\Before\Movie.cs" />
+    <Compile Include="Code\Ch6\After\ExtractMethod.cs" />
+    <Compile Include="Code\Ch6\Before\ExtractMethod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tests\Ch1\MovieTests.cs" />
+    <Compile Include="Tests\Ch6\ExtractMethodTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
